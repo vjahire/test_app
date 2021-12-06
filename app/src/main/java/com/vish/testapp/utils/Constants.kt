@@ -1,4 +1,4 @@
-package com.vish.testapp
+package com.vish.testapp.utils
 
 class Constants {
 

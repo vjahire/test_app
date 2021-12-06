@@ -1,7 +1,6 @@
 package com.vish.testapp.api
 
-import com.vish.testapp.Constants
-import com.vish.testapp.Constants.Companion.BASE_URL
+import com.vish.testapp.utils.Constants
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
